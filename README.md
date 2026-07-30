@@ -1,4 +1,4 @@
-# Hi, I'm Vishnudev AAmmuppilly👋
+# Hi, I'm Vishnudev Ammuppilly👋
 
 Network security specialist focused on the technical defense of digital infrastructure.
 MSc in Network Security (Heriot-Watt University), with hands-on experience conducting

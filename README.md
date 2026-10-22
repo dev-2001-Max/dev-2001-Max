@@ -11,7 +11,7 @@ through CompTIA Security+, Splunk practice with the BOTS dataset, and the TryHac
 SOC Level 1 pathway.
 
 🔍 Actively looking for **SOC Analyst (L1)**, **Junior Security Analyst**, or
-**Information Security Associate** roles in London.
+**Information Security Associate** roles .
 
 📂 Check out my full technical portfolio: [Cybersecurity-portfolio](https://github.com/dev-2001-Max/Cybersecurity-portfolio)
 
